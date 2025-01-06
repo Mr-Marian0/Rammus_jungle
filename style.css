@@ -1,0 +1,11 @@
+.mssg1{
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    border: 3px solid green;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+body {
+    background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+}
